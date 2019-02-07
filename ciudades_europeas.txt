@@ -4,3 +4,4 @@ Paris
 Londres
 Roma
 Dublin
+Barcelona

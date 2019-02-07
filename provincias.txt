@@ -3,5 +3,3 @@ Navarra
 Zaragoza
 Huesca
 Teruel
-Salamanca
-Sevilla

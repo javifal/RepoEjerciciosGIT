@@ -4,3 +4,5 @@ Bogota
 Caracas
 Brasilia
 La Havana
+Santiago de Chile
+San Francisco

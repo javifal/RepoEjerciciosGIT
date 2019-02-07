@@ -3,3 +3,5 @@ Navarra
 Zaragoza
 Huesca
 Teruel
+Salamanca
+Jaen

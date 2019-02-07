@@ -3,3 +3,5 @@ Berlin
 Paris
 Londres
 Roma
+Dublin
+Barcelona

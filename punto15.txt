@@ -4,9 +4,13 @@
 4. Añade contenido en todos los ficheros y haz commit: git commit -m "He añadido 5 ficheros"
 5. Crea otra rama y cambiate a ella: git checkout -b develop
 6. Añade contenido a los ficheros del repositorio y haz commit: git commit -m "He añadido elementos"
-7. Vuelve a la rama anterior y añade mas contenido a los ficheros: git checkout -b master
-8. Fusiona las ramas que tienes: git merge develop
+7. Vuelve a la rama anterior y añade mas contenido a los ficheros: git checkout -b master para volver a la rama master y añadimos mas contenido
+8. Fusiona las ramas que tienes: git merge develop, nos da error y tendremos que entrar dentro del fichero para solucionarlo, borraremos todas las lineas que nos aparecen para dejarlo como nosotros 
+queremos
 9. Crea un tag o etiqueta de la version fusionada: git tag tagEjercicio
 10. Sube a tu cuenta de github el repositorio: git push
-13. Añade un fichero .gitignore a tu repositorio: git add . ------- git commit -m "He añadidio un gitignore" -------- git push
+11. Desde la pagina gitignore.io cramos un fichero escribienfo Windows y Microsoft Office para los archivos de Windows y los .doc, ademas, añadiremos *.pdf dentro del archivo para ignorar los PDFs
+12. Creamos un archivo .doc y uno .pdf
+13. Añade un fichero .gitignore a tu repositorio: git add . ------- git commit -m "He añadidio un gitignore" -------- git push.
+	Al subir los archivos unicamente aparece el gitignore mas todos los archivos .txt ya que ignora el .doc y el .pdf 
 

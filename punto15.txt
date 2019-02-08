@@ -1,0 +1,12 @@
+1. Crea una carpeta en tu equipo: mkdir repoEjercicios
+2. Inicia en la carpeta anterior un repositorio de git: cd repoEjercicios -------- git init
+3. Añade 5 ficheros de texto...: nano ciudades...
+4. Añade contenido en todos los ficheros y haz commit: git commit -m "He añadido 5 ficheros"
+5. Crea otra rama y cambiate a ella: git checkout -b develop
+6. Añade contenido a los ficheros del repositorio y haz commit: git commit -m "He añadido elementos"
+7. Vuelve a la rama anterior y añade mas contenido a los ficheros: git checkout -b master
+8. Fusiona las ramas que tienes: git merge develop
+9. Crea un tag o etiqueta de la version fusionada: git tag tagEjercicio
+10. Sube a tu cuenta de github el repositorio: git push
+13. Añade un fichero .gitignore a tu repositorio: git add . ------- git commit -m "He añadidio un gitignore" -------- git push
+
